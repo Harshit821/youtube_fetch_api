@@ -25,10 +25,10 @@ We have used django_cron to fetch videos after every 10 seconds using [Youtube D
 # Screenshots
 
 ### Get API
-![Get API](getApi.png)
+![Get API](get_api.png)
 
 ### Search API
-![Search API](SearchAPI.png)
+![Search API](search_api.png)
 
 ### My Sql Database
-![Database](DataBase.png)
+![Database](mysql_database.png)
